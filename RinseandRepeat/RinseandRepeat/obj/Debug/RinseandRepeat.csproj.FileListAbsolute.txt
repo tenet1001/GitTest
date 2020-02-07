@@ -1,0 +1,9 @@
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\bin\Debug\RinseandRepeat.exe.config
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\bin\Debug\RinseandRepeat.exe
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\bin\Debug\RinseandRepeat.pdb
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\obj\Debug\RinseandRepeat.csprojAssemblyReference.cache
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\obj\Debug\RinseandRepeat.Form1.resources
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\obj\Debug\RinseandRepeat.Properties.Resources.resources
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\obj\Debug\RinseandRepeat.csproj.GenerateResource.cache
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\obj\Debug\RinseandRepeat.exe
+C:\Users\Elliott\source\repos\RinseandRepeat\RinseandRepeat\obj\Debug\RinseandRepeat.pdb
